@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "588175922162",
+    "firebase_url": "https://library-lagi-default-rtdb.firebaseio.com",
+    "project_id": "library-lagi",
+    "storage_bucket": "library-lagi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588175922162:android:b689160baa256dafd3116b",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WpmtK3zf4p9vKz9E1zJHt78dY-GUXXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588175922162:android:457e1ddff6bfe818d3116b",
+        "android_client_info": {
+          "package_name": "com.example.library_youtube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WpmtK3zf4p9vKz9E1zJHt78dY-GUXXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
